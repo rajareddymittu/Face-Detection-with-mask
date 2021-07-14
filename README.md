@@ -8,4 +8,5 @@ instrucitons to use:
     then label the indices of folders properly in "name" dictionary;
     then run the code;
     everything set;
+    once see "training and testing.mkv"
     thank you
